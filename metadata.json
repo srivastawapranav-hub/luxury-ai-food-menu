@@ -1,0 +1,7 @@
+{
+  "name": "The Imperial Table — Luxury Digital Dining Experience",
+  "description": "An ultra-premium, cinematic digital dining menu and concierge for 5-star hotels and fine-dining restaurants.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
